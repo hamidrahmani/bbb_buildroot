@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LOGS
+	bool "logs"
+	help
+  	  simple log program from Buildroot.
+

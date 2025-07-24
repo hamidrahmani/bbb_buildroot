@@ -1,0 +1,3 @@
+source "package/userapps/greeting/Config.in"
+source "package/userapps/logs/Config.in"
+source "package/userapps/userAppsInfo/Config.in"
