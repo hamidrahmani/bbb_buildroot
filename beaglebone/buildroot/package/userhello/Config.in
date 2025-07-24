@@ -1,5 +1,0 @@
-config BR2_PACKAGE_USERHELLO
-	bool "userhello"
-	help
-  		Ein einfaches userHello World Programm für Buildroot.
-
