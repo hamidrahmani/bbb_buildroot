@@ -1,0 +1,5 @@
+config BR2_PACKAGE_USERAPPSINFO
+	bool "userAppsInfo"
+	help
+  	  provides the list of user defined application.
+
